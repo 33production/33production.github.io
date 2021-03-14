@@ -8,4 +8,3 @@
 layout: home
 ---
 
-## My Super Muper Main Page
